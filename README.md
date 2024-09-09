@@ -1,3 +1,3 @@
-# SIH1700PROJECT
+# Final Project: Headstarter AI Fellowship
 
 # Live Workig Website = https://lawgptsih.vercel.app/ 
